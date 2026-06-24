@@ -53,12 +53,7 @@ Fetches weather, geocoding, and air pollution data from OpenWeatherMap via TanSt
 ### GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yugam-Grover&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugam-Grover&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yugam-Grover&theme=tokyonight&hide_border=true" />
 </div>
 
 ---

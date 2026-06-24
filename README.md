@@ -6,7 +6,6 @@ Frontend engineer building performant, type-safe React applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-grover)
 [![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/u/yugam-grover)
-[![Foundit](https://img.shields.io/badge/Foundit-6F2DBD?style=flat-square&logo=monster&logoColor=white)](YOUR_FOUNDIT_PROFILE_LINK)
 
 ---
 

@@ -50,11 +50,10 @@ Fetches weather, geocoding, and air pollution data from OpenWeatherMap via TanSt
 
 ---
 
-### GitHub Stats
+### Most Used Languages
 
-<div align="center">
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugam-Grover&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 

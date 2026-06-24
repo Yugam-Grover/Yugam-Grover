@@ -26,7 +26,7 @@ Frontend engineer building performant, type-safe React applications.
 
 #### [Clavis — Hotel Management Dashboard](https://github.com/Yugam-Grover/clavis)
 
-Full-stack hotel dashboard with Supabase handling auth, PostgreSQL operations, and image storage. Remote state managed via TanStack Query with server-side filtering, sorting, and pagination prefetching. Route-based code splitting with React.lazy improved Lighthouse Performance from 74 to 90.
+Full-stack hotel dashboard using Supabase for JWT auth, PostgreSQL operations, and image storage. Remote state via TanStack Query with server-side filtering and pagination prefetching, compound components built on React Context, CRUD forms wired with React Hook Form, and sales analytics with Recharts. Route-based code splitting improved Lighthouse Performance from 74 to 90.
 
 `React` `Supabase` `TanStack Query` `Recharts` `React Hook Form` `Styled Components`
 

@@ -1,39 +1,68 @@
-# Hi, I'm Yugam Grover 👋
+# Yugam Grover
 
-I am a **Frontend Engineer** focused on building strictly typed, high-performance web applications using **React, Next.js, and TypeScript**. I specialize in complex client-side state architecture, data synchronization pipelines, and defensive runtime validation.
+Frontend engineer building performant, type-safe React applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) 
-[![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/u/YOUR_WELLFOUND_USERNAME)
-[![Foundit](https://img.shields.io/badge/Foundit-6F2DBD?style=flat-square&logo=monster&logoColor=white)](https://www.foundit.in/)
+> 🟢 Open to frontend engineering roles — [yugamgrover13@gmail.com](mailto:yugamgrover13@gmail.com)
 
----
-
-### 💻 Core Engineering Stack
-
-- **Languages & Frameworks:** React.js, TypeScript, JavaScript (ES6+), Next.js (App Router / RSC)
-- **State & Data Handling:** TanStack Query (React Query), Zustand, Zod Validation, TanStack Table
-- **UI & Architecture:** Tailwind CSS, Shadcn/UI, Styled Components, Leaflet Maps
-- **Backend Integration:** Supabase (BaaS), PostgreSQL, RESTful APIs
-- **Performance Engineering:** Route-Based Code Splitting, React Suspense, Error Boundaries, Core Web Vitals
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-grover)
+[![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/u/yugam-grover)
+[![Foundit](https://img.shields.io/badge/Foundit-6F2DBD?style=flat-square&logo=monster&logoColor=white)](YOUR_FOUNDIT_PROFILE_LINK)
 
 ---
 
-### 🚀 Featured Production-Ready Applications
+### Stack
 
-#### 🏨 [Clavis — Hotel Management Dashboard](https://github.com/Yugam-Grover/clavis)
-An enterprise-grade internal dashboard built to manage operations, bookings, and real-time sales analytics.
-- **Key Architecture:** Remotely synchronized state via **TanStack Query** with pagination pre-fetching, backend operations powered by **Supabase**, and forms built using **React Hook Form + Zod**.
-- **Performance Impact:** Leveraged route-based code splitting and React Suspense to optimize critical rendering paths, boosting Lighthouse performance scores from **74 → 90**.
-- [**Live Demo ⚡**](YOUR_CLAVIS_VERCEL_LINK) | [**View Source Code 📦**](https://github.com/Yugam-Grover/clavis)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,supabase,postgres,vite)](https://skillicons.dev)
 
-#### 🌤️ [Nimbus — Real-Time Weather App](https://github.com/Yugam-Grover/nimbus)
-A high-performance weather mapping utility that translates raw atmospheric data into actionable environmental metrics.
-- **Key Architecture:** Engineered a custom **AQI calculation engine** running on EPA algorithms, built an interactive geographical tracking system using **Leaflet**, and applied strict runtime schema validation via **Zod**.
-- **Resiliency:** Implemented isolated, component-level **Error Boundaries** to catch API payload anomalies gracefully without crashing the global UI state.
-- [**Live Demo ⚡**](YOUR_NIMBUS_VERCEL_LINK) | [**View Source Code 📦**](https://github.com/Yugam-Grover/nimbus)
+**Languages & Frameworks** — React.js, TypeScript, JavaScript (ES6+)  
+**State & Data** — TanStack Query, TanStack Table, Zustand  
+**UI & Styling** — Tailwind CSS, Shadcn/UI, Styled Components  
+**Backend** — Supabase, PostgreSQL, REST APIs  
+**Tooling** — Zod, React Hook Form, Leaflet, Vite
 
 ---
 
-### 📊 Engineering Philosophy
+### Projects
 
-> I believe the frontend shouldn't just look clean—it should be resilient. My development workflow defaults to **defensive programming**: strict typing on the codebase, runtime layer validation against unpredictable API payloads, and strategic client-side caching to minimize server load and optimize user experience.
+#### [Clavis — Hotel Management Dashboard](https://github.com/Yugam-Grover/clavis)
+
+Full-stack hotel dashboard with Supabase handling auth, PostgreSQL operations, and image storage. Remote state managed via TanStack Query with server-side filtering, sorting, and pagination prefetching. Route-based code splitting with React.lazy improved Lighthouse Performance from 74 to 90.
+
+`React` `Supabase` `TanStack Query` `Recharts` `React Hook Form` `Styled Components`
+
+[Live Demo ↗](YOUR_CLAVIS_LIVE_LINK) · [README + Screenshots →](https://github.com/Yugam-Grover/clavis#readme)
+
+---
+
+#### [Nimbus — Real-Time Weather App](https://github.com/Yugam-Grover/Weather_App)
+
+Fetches weather, geocoding, and air pollution data from OpenWeatherMap via TanStack Query with shared query keys. Includes a custom AQI utility built on EPA breakpoint formulas, an interactive Leaflet + MapTiler map, and per-section Error Boundaries for isolated failure handling.
+
+`React` `TypeScript` `TanStack Query` `Zod` `Leaflet` `Shadcn/UI` `Tailwind CSS`
+
+[Live Demo ↗](YOUR_NIMBUS_LIVE_LINK) · [README + Screenshots →](https://github.com/Yugam-Grover/Weather_App#readme)
+
+---
+
+### Currently Building With
+
+**Next.js** — App Router, Server Components, SSR/SSG patterns
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yugam-Grover&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugam-Grover&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yugam-Grover&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### How I approach frontend work
+
+TypeScript types are compile-time only — they don't exist when the app runs. I validate all API responses with Zod schemas at runtime so an unexpected shape from a real API doesn't cause silent failures in component state. Combined with TanStack Query's request deduplication and caching, and Error Boundaries scoped to individual sections, the result is a UI that holds up when things go wrong.

@@ -24,13 +24,13 @@ Frontend engineer building performant, type-safe React applications.
 
 ### Projects
 
-#### [Clavis — Hotel Management Dashboard](https://github.com/Yugam-Grover/clavis)
+#### [Clavis — Hotel Management Dashboard](https://github.com/Yugam-Grover/Hotel-Dashboard)
 
 Full-stack hotel dashboard using Supabase for JWT auth, PostgreSQL operations, and image storage. Remote state via TanStack Query with server-side filtering and pagination prefetching, compound components built on React Context, CRUD forms wired with React Hook Form, and sales analytics with Recharts. Route-based code splitting improved Lighthouse Performance from 74 to 90.
 
 `React` `Supabase` `TanStack Query` `Recharts` `React Hook Form` `Styled Components`
 
-[Live Demo ↗](YOUR_CLAVIS_LIVE_LINK) · [README + Screenshots →](https://github.com/Yugam-Grover/clavis#readme)
+[Live Demo ↗](https://clavis-dashboard.vercel.app/) · [README + Screenshots →](https://github.com/Yugam-Grover/Hotel-Dashboard#readme)
 
 ---
 
@@ -40,7 +40,7 @@ Fetches weather, geocoding, and air pollution data from OpenWeatherMap via TanSt
 
 `React` `TypeScript` `TanStack Query` `Zod` `Leaflet` `Shadcn/UI` `Tailwind CSS`
 
-[Live Demo ↗](YOUR_NIMBUS_LIVE_LINK) · [README + Screenshots →](https://github.com/Yugam-Grover/Weather_App#readme)
+[Live Demo ↗](https://nimbus-weatherapp.vercel.app/) · [README + Screenshots →](https://github.com/Yugam-Grover/Weather_App#readme)
 
 ---
 

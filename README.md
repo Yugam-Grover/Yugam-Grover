@@ -6,7 +6,7 @@ Frontend Engineer | React, TypeScript — and the parts that only break in produ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-grover)
 [![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/u/yugam-grover)
-
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Yugam-Grover/resume/blob/main/Yugam_Grover.pdf)
 ---
 
 ### Stack

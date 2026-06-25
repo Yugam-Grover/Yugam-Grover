@@ -1,6 +1,6 @@
 # Yugam Grover
 
-Frontend engineer building performant, type-safe React applications.
+Frontend engineer. React, TypeScript — and the parts that only break in production.
 
 > 🟢 Based in Delhi · Open to frontend engineering roles — [yugamgrover13@gmail.com](mailto:yugamgrover13@gmail.com)
 

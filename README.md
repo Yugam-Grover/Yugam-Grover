@@ -2,7 +2,7 @@
 
 Frontend engineer building performant, type-safe React applications.
 
-> 🟢 Open to frontend engineering roles — [yugamgrover13@gmail.com](mailto:yugamgrover13@gmail.com)
+> 🟢 Based in Delhi · Open to frontend engineering roles — [yugamgrover13@gmail.com](mailto:yugamgrover13@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-grover)
 [![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/u/yugam-grover)
@@ -58,4 +58,5 @@ Fetches weather, geocoding, and air pollution data from OpenWeatherMap via TanSt
 
 ### How I approach frontend work
 
-TypeScript types are compile-time only — they don't exist when the app runs. I validate all API responses with Zod schemas at runtime so an unexpected shape from a real API doesn't cause silent failures in component state. Combined with TanStack Query's request deduplication and caching, and Error Boundaries scoped to individual sections, the result is a UI that holds up when things go wrong.
+TypeScript covers compile time — at runtime, I validate every API response through **Zod** schemas at the network boundary so unexpected shapes are caught before they reach component state. **Error Boundaries** scoped per section contain failures without cascading; **TanStack Query** deduplicates requests across components so the same endpoint never fires twice. On the component side, **compound components** via React Context keep internal state hidden from the consumer — clean API, no prop threading.
+

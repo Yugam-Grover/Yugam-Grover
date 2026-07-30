@@ -13,12 +13,12 @@ Frontend Engineer | React, TypeScript — and the parts that only break in produ
 
 [![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,supabase,postgres,vite)](https://skillicons.dev)
 
-**Languages & Frameworks** — React.js, Next.js, Node.js, Express.js, TypeScript, JavaScript(ES6+)
-**APIs & Backend** — MongoDB, Mongoose, PostgreSQL, Supabase, REST APIs, JWT Authentication, Socket.IO
-**State & Validation** — TanStack Query, Zustand, Zod, TanStack Table
-**UI & Styling** — Tailwind CSS, Styled Components, Shadcn/UI
-**Architecture & Performance** — App Router, RSC, Code Splitting, Error Boundaries, Web Vitals
-**Tools & Testing** — Jest, Supertest, Postman
+**Languages & Frameworks** — React.js, Next.js, Node.js, Express.js, TypeScript, JavaScript(ES6+)  
+**APIs & Backend** — MongoDB, Mongoose, PostgreSQL, Supabase, REST APIs, JWT Authentication, Socket.IO  
+**State & Validation** — TanStack Query, Zustand, Zod, TanStack Table  
+**UI & Styling** — Tailwind CSS, Styled Components, Shadcn/UI  
+**Architecture & Performance** — App Router, RSC, Code Splitting, Error Boundaries, Web Vitals  
+**Tools & Testing** — Jest, Supertest, Postman  
 
 ---
 
